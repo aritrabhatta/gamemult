@@ -13,7 +13,7 @@ The `Network` mode with `Web RTC Data Channel Demo` [here](http://ptpgamedemo.ap
 
 For the network game you need to install the server:
 
-    git clone git@github.com:mgechev/mk.js
+    git clone git@github.com:mgechev/mk.js 
     cd mk.js/server
     npm install
     node server.js
